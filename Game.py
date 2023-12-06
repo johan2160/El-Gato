@@ -97,5 +97,5 @@ class TresEnRaya:
 
 
 # comenzando el juego
-tres_en_raya = TresEnRaya()
-tres_en_raya.empezar()
+elGato = TresEnRaya()
+elGato.empezar()
